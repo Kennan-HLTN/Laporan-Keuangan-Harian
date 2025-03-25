@@ -17,7 +17,7 @@ Aplikasi berbasis web untuk mencatat pemasukan dan pengeluaran harian dengan fit
 ## Instalation  
 1. **Clone repository ini**  
    ```sh
-   git clone https://github.com/username/laporan-keuangan-harian.git
+   git clone https://github.com/Kennan-HLTN/laporan-keuangan-harian.git
    cd laporan-keuangan-harian
    ```
 2. **Buka `index.html` di browser** atau gunakan ekstensi Live Server di VS Code.  
